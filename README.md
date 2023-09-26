@@ -28,3 +28,5 @@ Outline for introduction and methods. The project outline will have three sectio
 *	I will analyze resource utilization by checking with each unit’s level of case load/if possible, number of inquiries/page traffic and their correlation with dates with engagements. <br/> 
 *	Using publicly available NYC OPENdata, [NYC Benefits Platform: Benefits and Programs Dataset](https://data.cityofnewyork.us/Social-Services/NYC-Benefits-Platform-Benefits-and-Programs-Datase/kvhd-5fmu), I will begin to further analyze NYC residents engagement with government resources and programs; further datasets from NYC OPENdata will be analyzed based on relevance to PEU events. <br/>
 *	I will draw up a comparative visualization on numbers of outreached citizens per communication methodology if possible. If not, separate visualizations to showcase level of engagement for each communication outreach strategy. *what tools will you use for visualization?* <br/>
+
+# *overall, still needs development - too brief*
